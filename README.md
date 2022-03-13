@@ -58,7 +58,7 @@
 
 ## ᴏʀɪɢɪɴᴀʟ ʀᴇᴘᴏ & sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-[sʜɪᴋʜᴀʀ](https://github.com/notreallyshikhar/YukkiMusicBot) 
+[sʜɪᴋʜᴀʀ](https://github.com/divyanshmusic/YukkiMusicBot) 
 
 ## ᴀᴄᴋɴᴏᴡʟᴇᴅɢᴇᴍᴇɴᴛs
 
